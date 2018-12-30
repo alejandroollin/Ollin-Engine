@@ -8,6 +8,6 @@ void main(array<String^>^ arg) {
 	Application::EnableVisualStyles();
 	Application::SetCompatibleTextRenderingDefault(false);
 	//Project1 es el nombre del proyecto
-	Formulario form;	//Reemplazar MyForm por el nombre que tenga tu clase 
+	Formulario form;	//Reemplazar MyForm por el nombre que tenga tu clasee.....
 	Application::Run(%form);
 }
