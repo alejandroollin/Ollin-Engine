@@ -1,9 +1,9 @@
 #include "Formulario.h"
 
-using namespace Ollin    // Reemplazar Project1 por el nombre que se le haya dado al proyecto
+//using namespace Ollin    // Reemplazar Project1 por el nombre que se le haya dado al proyecto
 
-[STAThread]
-
+//[STAThread]
+/*
 void main(array<String^>^ arg) {
 	Application::EnableVisualStyles();
 	Application::SetCompatibleTextRenderingDefault(false);
@@ -11,3 +11,5 @@ void main(array<String^>^ arg) {
 	Formulario form;	//Reemplazar MyForm por el nombre que tenga tu clasee
 	Application::Run(%form);
 }
+
+*/
